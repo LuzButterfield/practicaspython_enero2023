@@ -1,0 +1,2 @@
+# practicaspython_enero2023
+MOSTRAR LOS CÓDIGOS ELABORADOS EN PYTHON
